@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=lefo
+POSTGRES_USER=IlxkZvakvZOikluapDRpVFXpTHfGrlBY
+POSTGRES_PASSWORD=CClkl8MURLSRqVtxcVRvrIoin2ptcPk7jO7QoSlqocED3h0FBzoxcTLBneTP3zSr
